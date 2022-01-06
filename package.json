@@ -5,7 +5,7 @@
   "repository": "https://github.com/jeescu/express-sync-middleware",
   "author": "John Edward <johnedwardescuyos@gmail.com>",
   "license": "MIT",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "engines": {
     "node": "~6.9.1",
     "npm": ">=3.10.0"
